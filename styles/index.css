@@ -55,7 +55,7 @@ body {
   padding: 1vw 2vw;
   font-size: 2.5vw;
 }
-.grid-cells__same-height {
+.grid-cells__h-20 {
   flex: 0 0 20% !important;
 }
 .grid-cells__h-40 {
